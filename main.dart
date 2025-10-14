@@ -21,6 +21,7 @@ void main() {
   Student student2 = Student();
 
   student1.name = 'Arman Arshad';
+
   student1.age = 20;
   student1.grade = 'A';
   student1.studentID = 376;
